@@ -6,6 +6,7 @@
 - Implementar JWT stateless.
 - Usar persistência de dados.
 - Usar um linter (Eslint, Jshiint).
+- Utilizar Docker para subir o backend.
 - Deployar API na nuvem (heroku, next, aws, google cloud, etc).
 - Publicar o código-fonte em um repositório na internet (Bitbucket ou Github).
 
@@ -14,7 +15,7 @@
  - Criptografia irreversível (hash) para senha e token.
 
 ## Linguagens Desejadas:
- - BACKEND: NEST, TypeScript, JWT.
+ - BACKEND: Docker, NEST, TypeScript, JWT.
  - APP: ReactNative, Expo, TypeScript e Tailwind.
 
 ## Registro de usuário (Sign up)
